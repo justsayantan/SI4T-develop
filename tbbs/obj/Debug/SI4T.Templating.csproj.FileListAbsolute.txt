@@ -1,0 +1,17 @@
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\obj\Debug\SI4T.Templating.csproj.CoreCompileInputs.cache
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\SI4T.Templating.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\SI4T.Templating.pdb
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.Common.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Common.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Publishing.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Templating.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.Common.xml
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.xml
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Common.xml
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Publishing.xml
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\bin\Debug\Tridion.ContentManager.Templating.xml
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\obj\Debug\SI4T.Templating.csprojAssemblyReference.cache
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\obj\Debug\SI4T.Templating.csproj.CopyComplete
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\obj\Debug\SI4T.Templating.dll
+C:\Office\D\Projects\Tridion-Project\WFH\Source_Code\Search Integration\SI4T-develop\tbbs\obj\Debug\SI4T.Templating.pdb
